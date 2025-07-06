@@ -1,0 +1,42 @@
+extreme_io.f90:
+- RDWFN
+- MAKNAME
+- MAKNAME_DIRECT
+
+extreme_blas.f90:
+- DAXPY
+- DSCAL
+- DSWAP
+- DASUM
+- DDOT
+- IDAMAX
+- DGECO
+- DGEDI
+- DGEFA
+- DIVSTR
+
+extreme_linalg.f90:
+- TQLGRM
+- TRACE
+- TREDIG
+
+extreme_geometry.f90:
+- GAUS4
+- GEOM
+
+extreme_gradients.f90:
+- GRDRHO
+- GRDD2R
+- GRDKEG
+- GRDKEK
+- GRDV
+- GRDVNE
+- MULTI1
+- DES
+- NEWTON
+
+extreme_misc.f90:
+- ALPHA
+- AZero
+- BOND
+- BLOCK DATA
